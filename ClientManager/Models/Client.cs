@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-// Client model with INotifyPropertyChanged for data binding
+//  Client model with INotifyPropertyChanged for data binding
 namespace ClientManager.Models
 {
     public class Client : INotifyPropertyChanged
