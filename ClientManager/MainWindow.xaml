@@ -5,7 +5,7 @@
         WindowStartupLocation="CenterScreen"
         Background="#F0F2F5"
         Loaded="Window_Loaded">
-
+    <!-- Main window with client form, DataGrid, search and filter controls -->
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
