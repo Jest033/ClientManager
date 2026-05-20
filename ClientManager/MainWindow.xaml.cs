@@ -4,7 +4,7 @@ using System.Windows.Controls;
 using System.Windows.Threading;
 using ClientManager.Models;
 using ClientManager.Services;
-
+// MainWindow code-behind with search, filter, sort and CRUD event handlers
 namespace ClientManager
 {
     public partial class MainWindow : Window
