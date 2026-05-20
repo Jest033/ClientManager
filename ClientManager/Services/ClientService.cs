@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
 using ClientManager.Models;
-
+// Service with full CRUD operations, search, filter and sort functionality
 namespace ClientManager.Services
 {
     public class ClientService
